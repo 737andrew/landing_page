@@ -1,0 +1,106 @@
+#hero {
+    position: relative;
+    max-width: 1440px;
+    background: url("../img/ban_er2.png");
+    background-size: cover;
+    margin: 0 auto;
+    height: 715px;
+    padding-top: 76px;
+    @include breakpoint(small){
+  
+        background:#AFB1A4;}
+}
+
+.title {
+    margin-top: 1.25rem;
+    h1 {
+        font-family: $f-aa;
+        color: rgba(233, 233, 233, 0.72);
+        line-height: 57px;
+        text-shadow: 0px 6px 10px rgba(0, 0, 0, 0.50);
+    }
+}
+
+.baner {
+    background-size: cover;
+    background: url('../img/present.png') center right no-repeat;
+    height: 366px;
+    margin-top: 1.9rem;
+    // text-align:right;
+}
+
+.login {
+    display: block;
+    padding: 0 1rem;
+    margin-top: 1.9rem;
+    background: #2A2A2A;
+    border-radius: 15px;
+    position: relative;
+    [type=text],
+    [type=text],
+    [type=email] {
+        font-family: HelveticaNeue;
+        font-size: 16px;
+        color: #A9A9A9;
+        letter-spacing: 0px;
+        line-height: 25px;
+        margin: 5px 0 5px;
+    }
+    input {
+        border: 2px solid #7B7B97;
+        border-radius: 10px;
+    }
+}
+
+.security {
+
+    font-size: 14px;
+    color: rgba(202, 202, 202, 0.60);
+    letter-spacing: 0px;
+    line-height: 1rem;
+    text-align:center;
+}
+
+.button {
+    width: 90%;
+    height: 2rem;
+    margin: 1.25rem auto ;
+    background: #D7BF0B;
+    border-radius: 10px;
+    font-family: $f-aa;
+    font-size: 24px;
+    color: #FEFEFE;
+    // letter-spacing: 2px;
+    line-height: 30px;
+    padding: 0 1rem;
+}
+
+.login_title {
+    font-family: $f-aa;
+    font-size: 24px;
+    color: #E6E6E6;
+    letter-spacing: 0px;
+    line-height: 24px;
+    text-align:center;
+    margin: 1.25rem 0;
+}
+
+.name {
+    width: 90%;
+    margin: 0 auto;
+    label {
+        font-family: $f-aa;
+        font-size: 18px;
+        color: #FEFEFE;
+    }
+}
+
+.tl {
+    width: 90%;
+    margin: 0 auto;
+    label {
+        font-family: $f-aa;
+        font-size: 18px;
+        color: #FEFEFE;
+    }
+}

@@ -1,0 +1,1006 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"include"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"medi",
+				"@media\t@media ${1:screen} {\n\t${0}\n}"
+			],
+			[
+				"la",
+				"large\t(_settings.scss)"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"me",
+				"medium-4\t(index.html)"
+			],
+			[
+				"sma",
+				"small-3"
+			],
+			[
+				"sm",
+				"small-3"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"colu",
+				"column\t(index.html)"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-size\t(index.html)"
+			],
+			[
+				"w",
+				"with\t(index.html)"
+			],
+			[
+				"top",
+				"top-bar\t(index.html)"
+			],
+			[
+				"browse",
+				"browsers"
+			],
+			[
+				"br",
+				"browser-sync\t(package.json)"
+			],
+			[
+				"lo",
+				"login_title\t(index.html)"
+			],
+			[
+				"in",
+				"input\t(index.html)"
+			],
+			[
+				"hero",
+				"hero_1\t(index.html)"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"price",
+				"price_title\t(index.html)"
+			],
+			[
+				"ser",
+				"serve"
+			],
+			[
+				"bro",
+				"browserSync\t(?)"
+			],
+			[
+				"brow",
+				"browser\t$.browser()"
+			],
+			[
+				"sou",
+				"source"
+			],
+			[
+				"p",
+				"public/"
+			],
+			[
+				"a",
+				"auto\t(_navbar.scss)"
+			],
+			[
+				"cont",
+				"container\t(_global.scss)"
+			],
+			[
+				"fi",
+				"fill\t(index.html)"
+			],
+			[
+				"m",
+				"margin\t(_present.scss)"
+			],
+			[
+				"sp",
+				"sprite/"
+			],
+			[
+				"im",
+				"img/"
+			],
+			[
+				"ur",
+				"url()"
+			],
+			[
+				"wor",
+				"work-block\t(index.html)"
+			],
+			[
+				"ic_",
+				"ic_labely 3.png\tw:38 h:28"
+			],
+			[
+				"ic",
+				"ic_labely 3.png\tw:38 h:28"
+			],
+			[
+				"tr",
+				"transform\t(log.svg)"
+			],
+			[
+				"no",
+				"no-repeat\t(_hero.scss)"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"wo",
+				"work-right\t(index.html)"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"pt",
+				"padding-top\t(_present.scss)"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"pb",
+				"padding-bottom"
+			],
+			[
+				"ve",
+				"vertical-align"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"boo",
+				"bottom"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"pre",
+				"present\t(index.html)"
+			],
+			[
+				"pdt",
+				"padding-right"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"ow",
+				"owl-carousel"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"bor-r",
+				"border-radius"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"ad",
+				"adv\t(index.html)"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"dis",
+				"display-2\t(_global.scss)"
+			],
+			[
+				"we",
+				"we_present\t(index.html)"
+			],
+			[
+				"m-t",
+				"margin-top"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"pr",
+				"price_no\t(index.html)"
+			],
+			[
+				"bg",
+				"bg11.png\tw:1440 h:555"
+			],
+			[
+				"nav",
+				"navbar\t(index.html)"
+			],
+			[
+				"f-si",
+				"font-size"
+			],
+			[
+				"con",
+				"container\t(index.html)"
+			],
+			[
+				"bag",
+				"bags\t(index.html)"
+			],
+			[
+				"f",
+				"font"
+			],
+			[
+				"m-l",
+				"margin-left"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"sl",
+				"slide.jpg\tw:802 h:528"
+			],
+			[
+				"t",
+				"than\t(_variables.scss)"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"na",
+				"navbar\t(index.html)"
+			],
+			[
+				"mi",
+				"middle"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"wh",
+				"white\t(normalize.css)"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"to",
+				"toggleClass\t.toggleClass()"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"wt",
+				"write\t(mixcloud.rb)"
+			],
+			[
+				"st",
+				"stream\t(mixcloud.rb)"
+			],
+			[
+				"htt",
+				"https"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"do",
+				"dow\tdownto(0) { |n| .. }"
+			],
+			[
+				"beg",
+				"begin\tbegin … rescue … end"
+			],
+			[
+				"e",
+				"each\t.each()"
+			],
+			[
+				"toL",
+				"toLowerCase()"
+			],
+			[
+				"fli",
+				"flicr.js"
+			],
+			[
+				"cur",
+				"curl"
+			],
+			[
+				"su",
+				"success\t(temp3.js)"
+			],
+			[
+				"set",
+				"setUrl"
+			],
+			[
+				"th",
+				"this\t$(this)"
+			],
+			[
+				"an",
+				"animals"
+			],
+			[
+				"app",
+				"append\t.append()"
+			],
+			[
+				"null",
+				"nullFunction"
+			],
+			[
+				"on",
+				"onreadystatechange"
+			],
+			[
+				"cal",
+				"callback"
+			],
+			[
+				"call",
+				"callbackFunctionWrapper"
+			],
+			[
+				"thi",
+				"this\t(temp3.js)"
+			],
+			[
+				"respo",
+				"responseText\t(index.html)"
+			],
+			[
+				"pro",
+				"projection_type"
+			],
+			[
+				"eq",
+				"equiressl=yes"
+			],
+			[
+				"mime",
+				"mime"
+			],
+			[
+				"data",
+				"dataType\t(background.js)"
+			],
+			[
+				"pars",
+				"parseJSON\t(index.html)"
+			],
+			[
+				"sf",
+				"sdfg"
+			],
+			[
+				"au",
+				"audio\t(?)"
+			],
+			[
+				"s",
+				"sdfgh\t(index.html)"
+			],
+			[
+				"the",
+				"then\t.then()"
+			],
+			[
+				"res",
+				"responseText"
+			],
+			[
+				"ge",
+				"getJSON('http\t(index.html)"
+			],
+			[
+				"my",
+				"MY_ID"
+			],
+			[
+				"va",
+				"value\t(2.html)"
+			],
+			[
+				"callback",
+				"callbacks"
+			],
+			[
+				"ob",
+				"objj"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "ht",
+		"selected_items":
+		[
+			[
+				"ht",
+				"HTMLPrettify"
+			],
+			[
+				"Snippet: ht",
+				"Snippet: helloHTML_JQM"
+			],
+			[
+				"Snippet: ",
+				"Snippet: htm5"
+			],
+			[
+				"p",
+				"Package Control: List Packages"
+			],
+			[
+				"consol",
+				"Set Syntax: R Console"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"Snippet: !",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"Snippet: htm",
+				"Snippet: QUnit HTML"
+			],
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: html",
+				"Snippet: helloHTML_JQM"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"ls",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/andrew/Public/y"
+	],
+	"file_history":
+	[
+		"/Users/andrew/Desktop/Nomber1/font/stylesheet.css",
+		"/Users/andrew/Public/y/scss/_1main.scss",
+		"/Users/andrew/Public/SRC/all-f6-templates/product-page.html",
+		"/Users/andrew/Public/y/index.html",
+		"/Users/andrew/Public/y/css/app.css",
+		"/Users/andrew/Public/y/package.json",
+		"/Users/andrew/Public/Best/source/scss/_price.scss",
+		"/Users/andrew/Public/Best/assets/img/ic_alarm.svg",
+		"/Users/andrew/Desktop/Nomber1/config.codekit",
+		"/Users/andrew/Public/SRC/start_html-master/_clean_html/js/common.js",
+		"/Users/andrew/Library/Application Support/Sublime Text 3/Packages/User/Gulp/gulpw.sublime-snippet",
+		"/Users/andrew/Library/Application Support/Sublime Text 3/Packages/User/Gulp/gulpt.sublime-snippet",
+		"/Users/andrew/Library/Application Support/Sublime Text 3/Packages/User/Gulp/gulpd.sublime-snippet",
+		"/Users/andrew/Library/Application Support/Sublime Text 3/Packages/User/Gulp/pipe.sublime-snippet",
+		"/Users/andrew/Public/Best/package.json",
+		"/Users/andrew/Public/Best/source/scss/_global.scss",
+		"/Users/andrew/Public/Best/public/index.html",
+		"/Users/andrew/Public/Best/gulpfile.js",
+		"/Users/andrew/Public/Best/public/css/main.css",
+		"/Users/andrew/Desktop/Nomber1/img/credit_card.svg",
+		"/Users/andrew/Desktop/Nomber1/img/sprite/agreement.svg",
+		"/Users/andrew/Desktop/Nomber1/tmp/logo.svg",
+		"/Users/andrew/Desktop/Nomber1/tmp/log.svg",
+		"/Users/andrew/Desktop/Nomber1/img/sprite/checklist.svg",
+		"/Users/andrew/Desktop/Nomber1/img/sprite/wrench.svg",
+		"/Users/andrew/Desktop/Nomber1/img/sprite/cup.svg",
+		"/Users/andrew/Desktop/Nomber1/css/main.css",
+		"/Volumes/MEDIA/YandexDisk/Source_web/Font/Helvetica_Nue_Cry_/stylesheet.css",
+		"/Volumes/MEDIA/YandexDisk/Source_web/Font/Helvetica_Nue_Cry_/namber.sublime-project",
+		"/Users/andrew/Public/Spider/test.html",
+		"/Users/andrew/Public/Spider/slider1.html",
+		"/Users/andrew/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/andrew/Public/Spider/spider.sublime-project",
+		"/Users/andrew/Public/Spider/Натяжные потолки Москва, тканевый натяжной потолок дешево в Москве и области — Potolochkin.ru.htm",
+		"/Users/andrew/Public/Spider/js/main.js",
+		"/Users/andrew/Public/Spider/js/jquery.easy-ticker.js",
+		"/Users/andrew/Public/SRC/owl.carousel/demos/images.html",
+		"/Users/andrew/Public/Spider/index.html",
+		"/Users/andrew/Public/Spider/css/_media.scss",
+		"/Users/andrew/Public/Spider/css/_global.scss",
+		"/Users/andrew/Public/Spider/css/style.scss",
+		"/Users/andrew/Public/Spider/slider.html",
+		"/Users/andrew/Public/Spider/css/bootstrap.css",
+		"/Users/andrew/Public/Spider/dist/js/bootstrap.js",
+		"/Users/andrew/Public/my-skeleton/Flexible - Responsive HTML one page/assets/css/new-style.css",
+		"/Users/andrew/Public/my-skeleton/Flexible - Responsive HTML one page/index.html",
+		"/Users/andrew/Public/my-skeleton/Flexible - Responsive HTML one page/assets/css/style.css",
+		"/Users/andrew/Public/my-skeleton/css/global/_media.scss",
+		"/Users/andrew/Public/my-skeleton/css/style.css",
+		"/Users/andrew/Public/my-skeleton/css/style.scss",
+		"/Users/andrew/Public/my-skeleton/index.html",
+		"/Users/andrew/Public/my-skeleton/css/base/_variables.scss",
+		"/Users/andrew/Public/my-skeleton/css/normalize.scss",
+		"/Users/andrew/Public/my-skeleton/css/normalize.css",
+		"/Library/Preferences/SystemConfiguration/preferences.plist",
+		"/Users/andrew/Public/tmp/untitled.html",
+		"/Users/andrew/Public/tmp/css/skeleton.scss",
+		"/Users/andrew/Public/Site_Mon/grid.css",
+		"/Users/andrew/Public/BootFlat/startbootstrap-freelancer-gh-pages/css/freelancer.css",
+		"/Users/andrew/Public/Montagnik/css/main.css",
+		"/Users/andrew/Public/Site_Mon/js/main.js",
+		"/Users/andrew/Public/Site_Mon/css/skeleton.css",
+		"/Users/andrew/Public/Site_Mon/css/style.css",
+		"/Users/andrew/Public/Site_Mon/skeleton.scss",
+		"/Volumes/MEDIA/WEBSOURCE/Template_site_01_10/startbootstrap-grayscale-gh-pages/js/grayscale.js",
+		"/Volumes/MEDIA/WEBSOURCE/Template_site_01_10/startbootstrap-grayscale-gh-pages/gulpfile.js",
+		"/Users/andrew/Public/Skill/css/main.css",
+		"/Volumes/EFI/EFI/CLOVER/config.plist",
+		"/Users/andrew/Public/Skill/css/base/_variables.scss",
+		"/Users/andrew/Public/M-Site/css/style.scss",
+		"/Users/andrew/Public/M-Site/index.html",
+		"/Users/andrew/Public/M-Site/css/still.css",
+		"/Users/andrew/Public/M-Site/about.html",
+		"/Users/andrew/Public/M-Site/css/still.scss",
+		"/Users/andrew/Public/M-Site/price.html",
+		"/Users/andrew/Public/M-Site/img/instagramm.svg",
+		"/Users/andrew/Public/M-Site/css/style.css",
+		"/Users/andrew/Public/M-Site/img/logo.svg",
+		"/Users/andrew/Public/M-Site/css/main.scss",
+		"/Volumes/MEDIA/tmp/download_links/popup.html",
+		"/Volumes/MEDIA/WEBSOURCE/RESOURCE/Skeleton-2.0.4/css/skeleton.css",
+		"/Volumes/MEDIA/WEBSOURCE/blade/demo/showcase/demo/css/reset.css",
+		"/Volumes/MEDIA/WEBSOURCE/blade/demo/showcase/demo/css/binding-case.css",
+		"/Users/andrew/Library/Application Support/com.bohemiancoding.sketch3/Plugins/Untitled 2/css/reset.css",
+		"/Users/andrew/HTML/Untitled 2/css/reset.css",
+		"/Users/andrew/Library/Application Support/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
+		"/Users/andrew/Library/Application Support/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/Users/andrew/Public/Montagnik/css/normalize.css",
+		"/Users/andrew/Library/Application Support/Sublime Text 3/Packages/User/LiveReload.sublime-settings",
+		"/Users/andrew/Library/Application Support/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/Users/andrew/Dropbox/Documets/mail.txt",
+		"/Users/andrew/Dropbox/Soft/Script/file_rename.sh",
+		"/Volumes/MEDIA/Web/AnimateLesson/body.css",
+		"/Users/andrew/Scripts/mixcloud.rb",
+		"/Users/andrew/Scripts/Parser/db2.yml",
+		"/Users/andrew/Scripts/Parser/config.yml",
+		"/Users/andrew/Scripts/mix.rb",
+		"/Volumes/MEDIA/Web/Ruby Rails/Parser/config.yml",
+		"/Volumes/MEDIA/Web/01/background.js",
+		"/Volumes/MEDIA/Web/TESTSERVER/flicr.js",
+		"/Volumes/MEDIA/Web/TESTSERVER/test.html",
+		"/Volumes/MEDIA/Web/SoundCloud/test.js",
+		"/Volumes/MEDIA/Web/SoundCloud/temp.html",
+		"/Volumes/MEDIA/Web/SoundCloud/background.js",
+		"/Volumes/MEDIA/Web/SoundCloud/prosto.html",
+		"/Volumes/MEDIA/Web/SoundCloud/main.js",
+		"/Volumes/MEDIA/Web/TESTSERVER/test.js",
+		"/Volumes/MEDIA/Web/TESTSERVER/_site/test.js",
+		"/Volumes/MEDIA/Web/01/main.js",
+		"/Volumes/MEDIA/Web/TESTSERVER/_site/temp3.js",
+		"/Volumes/MEDIA/Web/Ruby Rails/myspider.py",
+		"/Volumes/MEDIA/Web/scrap.rb",
+		"/Volumes/MEDIA/Web/TESTSERVER/_site/test2.js",
+		"/Volumes/MEDIA/Web/01/index.html",
+		"/Volumes/MEDIA/Web/01/manifest.json",
+		"/Volumes/MEDIA/Web/Projekt1/background.js",
+		"/Volumes/MEDIA/Web/TESTSERVER/temp3.js",
+		"/Volumes/MEDIA/Web/TESTSERVER/temp4.js",
+		"/Volumes/MEDIA/Web/TESTSERVER/temp2.js",
+		"/Volumes/MEDIA/Web/TESTSERVER/untitled.js",
+		"/Volumes/MEDIA/YandexDisk/Browser/getstarted/popup.js",
+		"/Volumes/MEDIA/Web/SoundCloud/https:::www.lostfilm.tv:rssdd.xml",
+		"/Volumes/MEDIA/Web/TESTSERVER/_site/test.html",
+		"/Volumes/MEDIA/Web/Projekt1/main-stack.js",
+		"/Volumes/MEDIA/Web/Projekt1/manifest.json",
+		"/Volumes/MEDIA/Web/Projekt1/background-stack.js",
+		"/Volumes/MEDIA/Web/YouTube/index.html",
+		"/Volumes/MEDIA/Web/TESTSERVER/index.html"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"h4",
+			"h5",
+			"main",
+			"top-bar",
+			"$light-graypink",
+			"top",
+			"span",
+			"h4",
+			"']);",
+			"st",
+			"SVGID_1_",
+			"0.4",
+			"15",
+			"0.22",
+			"24",
+			"h5",
+			"</li>",
+			"icon",
+			"li",
+			"icons/",
+			"<i class=\"icon_work\"></i>",
+			"work-",
+			"</p>",
+			"/p>",
+			"<p",
+			"p",
+			" <img src=\"img/",
+			"<img src=\"img/ic_credit_card.svg\" alt=\"\">",
+			"393.9",
+			"85.5",
+			"<div>",
+			"block",
+			"                    <h5>",
+			"h4",
+			"div",
+			"проектом",
+			"asd",
+			"price",
+			"}\n",
+			"p",
+			"nav",
+			"inlinblock",
+			"three",
+			";\n",
+			"p",
+			"body",
+			"menu",
+			"section",
+			"1024px;",
+			"MyriadProCondRegular/",
+			"font-fa",
+			"section",
+			"@litor.mz",
+			"<li>",
+			"oundList__item",
+			"soundTitle__username",
+			"soundTitle__secondary",
+			"backMessage",
+			"p",
+			"&",
+			"&'",
+			"&",
+			"unescape",
+			"upn",
+			"upn=",
+			"upn=sN",
+			"upn=sN1Q1",
+			"upn=sN1Q1knqh",
+			"upn",
+			"title",
+			"-icon",
+			"id",
+			"crop",
+			"argument",
+			"8px",
+			"16",
+			"640px",
+			"ol",
+			"p",
+			"}",
+			"\"cena\"",
+			"\"sht\"",
+			"browser",
+			"firefox",
+			"<span>",
+			"span",
+			"el",
+			"$(\"#smeta\").click(function() {\n  console.log(this);\n  /* Act on the event */\n});",
+			"ctrl+left",
+			"name\"",
+			": {",
+			"},",
+			": {",
+			"email",
+			"};",
+			"tabl",
+			"title",
+			"cena",
+			"sht",
+			" ],",
+			"],",
+			" ],",
+			"],",
+			"twitter",
+			"scri",
+			"jquery",
+			"Youtube",
+			"label",
+			"hour",
+			"img",
+			"IMG",
+			"img",
+			"IMG",
+			",\n",
+			"127.0.0.1 activate.wip3.adobe.com",
+			"127.0.0.1 ereg.adobe.com",
+			"127.0.0.1 adobe-dns-3.adobe.com",
+			"127.0.0.1 ereg.wip3.adobe.com",
+			"adobe-dns-3.adobe.com",
+			"adobe-dns-1.adobe.com",
+			"activate.wip1.adobe.com",
+			"3dns.adobe.com",
+			"3dns-5.adobe.com",
+			"3dns-4.adobe.com",
+			"3dns-2.adobe.com",
+			"adobe-dns-2.adobe.com",
+			"adobe-dns-1.adobe.com",
+			"activate.wip1.adobe.com"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 246.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "y.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"YouTube/index.html"
+			],
+			[
+				"ma",
+				"css/main.scss"
+			],
+			[
+				"",
+				"best.js"
+			],
+			[
+				"sty",
+				"scss/style.scss"
+			],
+			[
+				"1",
+				"1.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 276.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

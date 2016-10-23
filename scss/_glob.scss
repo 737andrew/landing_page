@@ -1,4 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+} 
+ $f-aa: 'aa_bebas_neue';
+  $f-bn: 'bebas_neue_regularregular';
+  $f-roman: 'helveticaneuecyrroman';
+  $f-bold: 'helveticaneuecyrbold';
+  $f-medium:'helveticaneuecyrmedium';
+  $f-light: 'helveticaneuecyrlight';
 
+  .cf:after,
+.cf:before {
+  content: " ";
+  display: table; }
+
+.cf:after {
+  clear: both; }
+  
 @font-face {
     font-family: 'helveticaneuecyrroman';
     src: url('../font/helveticaneuecyr-roman-webfont.eot');
@@ -75,9 +93,4 @@
   font-weight: normal;
   font-style: normal; }
 
-  $f-aa: 'aa_bebas_neue';
-  $f-bn: 'bebas_neue_regularregular';
-  $f-roman: 'helveticaneuecyrroman';
-  $f-bold: 'helveticaneuecyrbold';
-  $f-medium:'helveticaneuecyrmedium';
-  $f-light: 'helveticaneuecyrlight';  
+  

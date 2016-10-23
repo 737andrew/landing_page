@@ -1,38 +1,8 @@
 @import 'settings';
 @import 'glob';
-header {
-    background: #2A2A2A;
-    height: 75px;
-}
+@import 'header';
+@import 'hero';
 
-.slogan {
 
-    h5{
-      margin-top: .8rem;
-        font-family: $f-roman;
-        color: #FEFEFE;
-        letter-spacing: 0px;
-        line-height: 1;}
-}
-.tel{
-  text-align: right;
-}
-.time {
-    span{
-    font-family: $f-roman;
-    color: #FEFEFE;
-    font-size: 14px;
-    letter-spacing: 0px;}
-}
-
-.phone {
-    h3 {
-      margin-top: 8px;
-      margin-bottom: 0;
-    font-family:$f-roman;
-    // font-size: 38px;
-    color: #FEFEFE;
-    letter-spacing: 0px;}
-}
 
 
