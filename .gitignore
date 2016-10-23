@@ -2,4 +2,6 @@
 bower_components
 node_modules
 npm-debug.log
-css
+*.sublime-project
+*.sublime-workspace
+config.codekit
