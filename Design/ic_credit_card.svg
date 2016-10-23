@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="126px" height="100px" viewBox="0 0 126 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_credit_card</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-787.000000, -827.000000)">
+            <g id="Group-3" transform="translate(0.000000, 658.000000)">
+                <g id="Group-4" transform="translate(740.000000, 144.035052)">
+                    <g id="ic_credit_card" transform="translate(35.000000, 0.000000)">
+                        <polygon id="Bounds" points="0 0 150 0 150 149.918611 0 149.918611"></polygon>
+                        <path d="M125,24.9864352 L25,24.9864352 C18.0625,24.9864352 12.5625,30.545917 12.5625,37.4796527 L12.5,112.438958 C12.5,119.372694 18.0625,124.932176 25,124.932176 L125,124.932176 C131.9375,124.932176 137.5,119.372694 137.5,112.438958 L137.5,37.4796527 C137.5,30.545917 131.9375,24.9864352 125,24.9864352 L125,24.9864352 Z M125,112.438958 L25,112.438958 L25,74.9593055 L125,74.9593055 L125,112.438958 L125,112.438958 Z M125,49.9728703 L25,49.9728703 L25,37.4796527 L125,37.4796527 L125,49.9728703 L125,49.9728703 Z" id="Icon" fill="#D63D1B"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
