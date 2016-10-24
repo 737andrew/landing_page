@@ -6,11 +6,15 @@
     margin: 0 auto;
     height: 715px;
     padding-top: 76px;
-    @include breakpoint(small){
-  
-        background:#AFB1A4;}
+    @include breakpoint(640px down){
+        top:10px;
+        background:#AFB1A4;
+        height:auto;
+        padding-bottom:1rem;
+    }
 }
 
+  
 .title {
     margin-top: 1.25rem;
     h1 {
@@ -18,37 +22,60 @@
         color: rgba(233, 233, 233, 0.72);
         line-height: 57px;
         text-shadow: 0px 6px 10px rgba(0, 0, 0, 0.50);
+        .price_no {
+    font-size: 90%;
+    text-decoration: line-through;
+    color: #d63d1b; }
+    }
+    .price_yes{
+        font-size:120%;
     }
 }
 
 .baner {
     background-size: cover;
-    background: url('../img/present.png') center right no-repeat;
-    height: 366px;
+    background: url('../img/present.png') center no-repeat;
+    // height: auto;
+    // margin-top: 1.9rem;
+    text-align:center;
     margin-top: 1.9rem;
-    // text-align:right;
+    position:relative;
+    span{
+        font-family: $f-roman;
+        text-align:left;
+        position:absolute;;
+        font-size: 2.5rem;
+        color:#ffffff;
+        bottom:20px;
+        left:20%;
+        spam{
+            font-size: 3rem;
+
+        }
+    }
 }
 
 .login {
-    display: block;
-    padding: 0 1rem;
+    // display: block;
+    // padding: 0 1rem;
     margin-top: 1.9rem;
     background: #2A2A2A;
     border-radius: 15px;
+    text-align:center;
     position: relative;
-    [type=text],
+    [type=tel],
     [type=text],
     [type=email] {
-        font-family: HelveticaNeue;
         font-size: 16px;
-        color: #A9A9A9;
-        letter-spacing: 0px;
         line-height: 25px;
         margin: 5px 0 5px;
     }
     input {
         border: 2px solid #7B7B97;
         border-radius: 10px;
+    }
+    @include breakpoint(640px down){
+
     }
 }
 
@@ -59,12 +86,13 @@
     letter-spacing: 0px;
     line-height: 1rem;
     text-align:center;
+    padding-bottom: 1rem;
 }
 
 .button {
     width: 90%;
     height: 2rem;
-    margin: 1.25rem auto ;
+    margin: 1rem auto ;
     background: #D7BF0B;
     border-radius: 10px;
     font-family: $f-aa;
@@ -82,25 +110,19 @@
     letter-spacing: 0px;
     line-height: 24px;
     text-align:center;
-    margin: 1.25rem 0;
+    padding: 1.25rem 0;
 }
 
-.name {
+.name,.tl {
     width: 90%;
     margin: 0 auto;
     label {
+        text-align:left;
         font-family: $f-aa;
         font-size: 18px;
         color: #FEFEFE;
     }
 }
 
-.tl {
-    width: 90%;
-    margin: 0 auto;
-    label {
-        font-family: $f-aa;
-        font-size: 18px;
-        color: #FEFEFE;
-    }
-}
+
+

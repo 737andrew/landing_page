@@ -4,8 +4,52 @@
 		"selected_items":
 		[
 			[
+				"pri",
+				"price_yes\t(index.html)"
+			],
+			[
+				"text",
+				"text-transform\t(app.css)"
+			],
+			[
+				"fz",
+				"font-size"
+			],
+			[
+				"hid",
+				"hidden\t(app.css)"
+			],
+			[
+				"vi",
+				"visible\t(app.css)"
+			],
+			[
+				"add",
+				"addClass\t.addClass()"
+			],
+			[
+				"to",
+				"topWindow"
+			],
+			[
+				"card",
+				"cardAdv"
+			],
+			[
+				"me",
+				"medium\t(_settings.scss)"
+			],
+			[
 				"medi",
-				"medium-7\t(index.html)"
+				"medium-8"
+			],
+			[
+				"sma",
+				"small-12"
+			],
+			[
+				"bre",
+				"breakpoint\t(_header.scss)"
 			],
 			[
 				"br",
@@ -38,14 +82,6 @@
 			[
 				"lin",
 				"line-height"
-			],
-			[
-				"me",
-				"medium-4\t(index.html)"
-			],
-			[
-				"sma",
-				"small-3"
 			],
 			[
 				"sm",
@@ -198,10 +234,6 @@
 			[
 				"ve",
 				"vertical-align"
-			],
-			[
-				"text",
-				"text-align"
 			],
 			[
 				"boo",
@@ -364,10 +396,6 @@
 				"class\tAttr"
 			],
 			[
-				"to",
-				"toggleClass\t.toggleClass()"
-			],
-			[
 				"b",
 				"background"
 			],
@@ -486,101 +514,11 @@
 			[
 				"s",
 				"sdfgh\t(index.html)"
-			],
-			[
-				"the",
-				"then\t.then()"
-			],
-			[
-				"res",
-				"responseText"
-			],
-			[
-				"ge",
-				"getJSON('http\t(index.html)"
-			],
-			[
-				"my",
-				"MY_ID"
-			],
-			[
-				"va",
-				"value\t(2.html)"
-			],
-			[
-				"callback",
-				"callbacks"
-			],
-			[
-				"ob",
-				"objj"
 			]
 		]
 	},
 	"buffers":
 	[
-		{
-			"file": "public/index.html",
-			"settings":
-			{
-				"buffer_size": 2407,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": ".gitignore",
-			"settings":
-			{
-				"buffer_size": 107,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "scss/main.scss",
-			"settings":
-			{
-				"buffer_size": 74,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "scss/_hero.scss",
-			"settings":
-			{
-				"buffer_size": 1958,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "scss/_header.scss",
-			"settings":
-			{
-				"buffer_size": 800,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "gulpfile.js",
-			"settings":
-			{
-				"buffer_size": 870,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "scss/_glob.scss",
-			"settings":
-			{
-				"buffer_size": 3719,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -661,12 +599,29 @@
 	"expanded_folders":
 	[
 		"/Users/andrew/Public/y",
-		"/Users/andrew/Public/y/public/css"
+		"/Users/andrew/Public/y/bower_components/animate.css/source/fading_entrances",
+		"/Users/andrew/Public/y/public",
+		"/Users/andrew/Public/y/public/css",
+		"/Users/andrew/Public/y/scss"
 	],
 	"file_history":
 	[
-		"/Users/andrew/Public/y/config.codekit",
+		"/Users/andrew/Public/y/scss/_header.scss",
+		"/Users/andrew/Public/y/public/css/app.css",
+		"/Users/andrew/Public/y/gulpfile.js",
 		"/Users/andrew/Public/y/public/css/main.css",
+		"/Users/andrew/Public/y/Design/ic_motorcycle.svg",
+		"/Users/andrew/Public/y/public/index.html",
+		"/Users/andrew/Public/y/scss/_adventage.scss",
+		"/Users/andrew/Public/y/scss/_hero.scss",
+		"/Users/andrew/Public/y/scss/app.scss",
+		"/Users/andrew/Public/y/scss/main.scss",
+		"/Users/andrew/Public/y/public/css/animate.css",
+		"/Users/andrew/Public/y/scss/animate.scss",
+		"/Users/andrew/Public/y/public/temp.html",
+		"/Users/andrew/Public/y/scss/_glob.scss",
+		"/Users/andrew/Public/y/.gitignore",
+		"/Users/andrew/Public/y/config.codekit",
 		"/Users/andrew/Desktop/Nomber1/font/stylesheet.css",
 		"/Users/andrew/Public/y/scss/_1main.scss",
 		"/Users/andrew/Public/SRC/all-f6-templates/product-page.html",
@@ -778,21 +733,7 @@
 		"/Volumes/MEDIA/Web/01/main.js",
 		"/Volumes/MEDIA/Web/TESTSERVER/_site/temp3.js",
 		"/Volumes/MEDIA/Web/Ruby Rails/myspider.py",
-		"/Volumes/MEDIA/Web/scrap.rb",
-		"/Volumes/MEDIA/Web/TESTSERVER/_site/test2.js",
-		"/Volumes/MEDIA/Web/01/index.html",
-		"/Volumes/MEDIA/Web/01/manifest.json",
-		"/Volumes/MEDIA/Web/Projekt1/background.js",
-		"/Volumes/MEDIA/Web/TESTSERVER/temp3.js",
-		"/Volumes/MEDIA/Web/TESTSERVER/temp4.js",
-		"/Volumes/MEDIA/Web/TESTSERVER/temp2.js",
-		"/Volumes/MEDIA/Web/TESTSERVER/untitled.js",
-		"/Volumes/MEDIA/YandexDisk/Browser/getstarted/popup.js",
-		"/Volumes/MEDIA/Web/SoundCloud/https:::www.lostfilm.tv:rssdd.xml",
-		"/Volumes/MEDIA/Web/TESTSERVER/_site/test.html",
-		"/Volumes/MEDIA/Web/Projekt1/main-stack.js",
-		"/Volumes/MEDIA/Web/Projekt1/manifest.json",
-		"/Volumes/MEDIA/Web/Projekt1/background-stack.js"
+		"/Volumes/MEDIA/Web/scrap.rb"
 	],
 	"find":
 	{
@@ -810,6 +751,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"p",
+			"animated",
+			"card",
+			">\n",
+			"column",
 			"span",
 			"section",
 			"cf",
@@ -932,12 +878,7 @@
 			"127.0.0.1 ereg.adobe.com",
 			"127.0.0.1 adobe-dns-3.adobe.com",
 			"127.0.0.1 ereg.wip3.adobe.com",
-			"adobe-dns-3.adobe.com",
-			"adobe-dns-1.adobe.com",
-			"activate.wip1.adobe.com",
-			"3dns.adobe.com",
-			"3dns-5.adobe.com",
-			"3dns-4.adobe.com"
+			"adobe-dns-3.adobe.com"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -955,231 +896,13 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "public/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2407,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1171,
-								1171
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/MY (light).tmTheme",
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 447.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": ".gitignore",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 107,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								106,
-								106
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		},
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 2,
-					"file": "scss/main.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 74,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								74,
-								74
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/MY (light).tmTheme",
-							"syntax": "Packages/SCSS/SCSS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "scss/_hero.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1958,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								243,
-								249
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/MY (light).tmTheme",
-							"open_with_edit": true,
-							"syntax": "Packages/SCSS/SCSS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 94.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "scss/_header.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 800,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								253,
-								253
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/MY (light).tmTheme",
-							"open_with_edit": true,
-							"syntax": "Packages/SCSS/SCSS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "gulpfile.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 870,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/MY (light).tmTheme",
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "scss/_glob.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3719,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								338,
-								338
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/MY (light).tmTheme",
-							"syntax": "Packages/SCSS/SCSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 195.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1202,21 +925,21 @@
 				1
 			],
 			[
+				1,
 				0,
-				1,
-				1,
-				2
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.5,
 			1.0
 		],
 		"rows":
 		[
 			0.0,
-			0.432418862468,
 			1.0
 		]
 	},
@@ -1291,7 +1014,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 276.0,
+	"side_bar_width": 179.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

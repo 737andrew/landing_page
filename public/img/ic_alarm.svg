@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="125px" height="126px" viewBox="0 0 125 126" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_alarm</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-208.000000, -964.000000)">
+            <g id="#advantage" transform="translate(0.000000, 790.000000)">
+                <g id="alarm" transform="translate(135.000000, 150.000000)">
+                    <g id="ic_alarm" transform="translate(60.000000, 0.000000)">
+                        <g id="Group">
+                            <polygon id="Shape" points="0 0 150 0 150 149.919 0 149.919"></polygon>
+                            <path d="M138,48.112 L109.25,24 L101.187,33.557 L129.937,57.669 L138,48.112 L138,48.112 Z M49.75,33.557 L41.75,24 L13,48.049 L21.063,57.606 L49.751,33.557 L49.75,33.557 Z M78.625,62.354 L69.25,62.354 L69.25,99.834 L98.938,117.637 L103.626,109.954 L78.626,95.15 L78.626,62.355 L78.625,62.354 Z M75.5,37.368 C44.437,37.368 19.25,62.542 19.25,93.587 C19.25,124.633 44.375,149.806 75.5,149.806 C106.563,149.806 131.75,124.632 131.75,93.587 C131.75,62.541 106.562,37.368 75.5,37.368 L75.5,37.368 Z M75.5,137.314 C51.312,137.314 31.75,117.762 31.75,93.588 C31.75,69.414 51.313,49.862 75.5,49.862 C99.688,49.862 119.25,69.414 119.25,93.588 C119.25,117.762 99.687,137.314 75.5,137.314 L75.5,137.314 Z" id="Shape" fill="#D63D1B"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
